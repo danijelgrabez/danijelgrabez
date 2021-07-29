@@ -2,7 +2,7 @@
 <p>I help companies and small businesses thrive by advising, designing and developing digital products.</p>
 <hr />
 <details>
-  <summary>:v:</summary>
+  <summary>:memo:</summary>
   <br />
   <ul>
     <li>I work as a software developer at <a href="https://kiron.ngo/">Kiron</a> where I focus on product foundations and API</li>
