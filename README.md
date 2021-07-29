@@ -1,17 +1,12 @@
-
-### :v:
-
-<!--
-**danijelgrabez/danijelgrabez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Hey there 👋</h4>
+<p>I help companies and small businesses thrive by advising, designing and developing digital products.</p>
+<hr />
+<details>
+  <summary>:v:</summary>
+  <br />
+  <ul>
+    <li>I work as a software developer at <a href="https://kiron.ngo/">Kiron</a> where I focus on product foundations and API</li>
+    <li>I built <a href="https://heypolls.com/">Hey, Polls!</a> to make voting easy and engaging; I made a couple of notes <a href="https://danijelgrabez.com/blog/heypolls">on my blog</a> about it</li>
+    <li>I am currently working on a tool that provides an option to integrate a feedback widget to any blog or website. Coming soon to a browser near you.</li>
+  </ul>
+</details>
