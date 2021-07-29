@@ -1,4 +1,4 @@
-<h4>Hey there 👋</h4>
+<h3>Hey there 👋</h3>
 <p>I help companies and small businesses thrive by advising, designing and developing digital products.</p>
 <hr />
 <details>
