@@ -1,4 +1,5 @@
 <h1>❧</h1>
+<p>Generalist by nature, specialist when it counts. I connect dots across teams and go deep on the hard problems.</p>
 <p>I help companies and small businesses thrive by advising, designing and developing digital products.</p>
 <hr />
 <details>
